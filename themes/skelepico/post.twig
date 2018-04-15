@@ -5,9 +5,11 @@
 <div class="row">
 <div class="two-thirds column">
 
+<div class="post-header">
 <h1>{{ current_page.title }}</h1>
-
-<p>{{ current_page.date_formatted }}</p>
+<h5>{{ current_page.description }}</h5>
+<p>Written by {{ current_page.author }}. Posted {{ current_page.date_formatted }}.</p>
+</div>
 
 {{ content }}
 
