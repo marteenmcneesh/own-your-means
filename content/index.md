@@ -1,15 +1,18 @@
 ---
 Title: Home
 Description: Find jobs at worker-owned coops
+Template: columns
 ---
 
-# Large header
+# Find a better job
 
-Hello!
+Own Your Means is updated weekly with jobs at worker cooperatives.
 
-## A smaller header
+Do you have a position you want to post? Fill out our form and we'll be in touch with you. It is currently **free** to list with us. What's stopping you?
 
-Hello again!
-`enjoy this code boyo`
 
-Please use the form.
+| Position           | Company           | Location     | Posted on |
+| -----------------  | ----------------  | --------     | ---       |
+| Graphic Designer   | Image Collective  | Detroit, MI  | Apr 14    |
+| Barista            | Cool Coffee       | Oakland, CA  | Apr 14    |
+| Operations Manager | Stalin's Pizzeria | Tampa, FL    | Apr 14    |
